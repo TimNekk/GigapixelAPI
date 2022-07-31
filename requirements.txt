@@ -1,0 +1,10 @@
+redis
+rq
+loguru
+git+https://github.com/michaelbrooks/rq-win.git#egg=rq-win
+gigapixel
+fastapi
+uvicorn
+python-multipart
+peewee
+Pillow
